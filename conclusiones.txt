@@ -1,0 +1,8 @@
+Conclusiones:
+
+1) El escenario de compra de productos se ejecutó exitosamente.
+
+2) Puntos de Mejora:
+    - Se recomienda evitar el uso excesivo de Id's en los elementos HTML por temas de mantenibilidad en Desarrollo y QA.
+    - Algunos botones como el del login son elementos HTML de tipo 'input' lo cual es una mala practica a nivel de SEO.
+      Esto afecta a la califación general de la misma y al posicionamiento que le da Google al mostrar resultados relevantes.
