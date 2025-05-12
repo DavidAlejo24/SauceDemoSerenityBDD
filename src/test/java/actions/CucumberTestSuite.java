@@ -1,4 +1,4 @@
-package starter;
+package actions;
 
 import org.junit.platform.suite.api.ConfigurationParameter;
 import org.junit.platform.suite.api.IncludeEngines;
